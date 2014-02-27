@@ -1,4 +1,4 @@
-kirkley-collections
+collections-extra
 ===================
 
 Collections and collections utilities I have written
